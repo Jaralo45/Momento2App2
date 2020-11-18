@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "360694701910",
+    "firebase_url": "https://ftienda-3cfff.firebaseio.com",
+    "project_id": "ftienda-3cfff",
+    "storage_bucket": "ftienda-3cfff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360694701910:android:7ad73558e997a514e280f7",
+        "android_client_info": {
+          "package_name": "com.example.ftienda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360694701910-45tnitapesecqgqf15fpvnbk0vo6on33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ftienda",
+            "certificate_hash": "4d20a8db5710b2aef55215f5021bd009c78129a2"
+          }
+        },
+        {
+          "client_id": "360694701910-v36v2qfqojhnckn0kp1p36k76sdmbqn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDviUlopgLdDHQh4defrYIUXYR4ipru33w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360694701910-v36v2qfqojhnckn0kp1p36k76sdmbqn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
